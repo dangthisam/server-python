@@ -1,0 +1,9 @@
+# requirements.txt
+flask
+flask-cors
+joblib
+scikit-learn
+pandas
+python-whois
+dnspython
+requests
